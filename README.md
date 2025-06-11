@@ -3,9 +3,9 @@
 <p><em>Programming Enthusiasts and Web Developer>_</em></p>
 
 <h1>💫 About Me:</h1>
-<p>🔭 I’m currently studying in <em>Senior Highschool<em/></p>
+<p>🔭 I’m currently studying in <em>Senior Highschool</em></p>
 <p>🌱 I’m currently learning <em>C/C++ language and Javascript</em></p>
-<p>⚡ Fun fact:<em>I'm Photographer and Guitarist<em/>/p>
+<p>⚡ Fun fact: <em>I'm Photographer and Guitarist</em>/p>
 <hr />
 
 
