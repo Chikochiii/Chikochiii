@@ -1,4 +1,4 @@
-![Shima-Rin-Chill](img/rin1.gif)
+![Shima-Rin-Chill](img/rin2.gif)
 <h1>Bello, I'm Chikochi</h1>
 <p><em>Programming Enthusiasts and Web Developer>_</em></p>
 
@@ -25,4 +25,4 @@
   <img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"><a/>
   
 ### Thanks for visiting my profile github:3
-![Rin](/img/rin2.gif)
+![Rin](/img/rin1.gif)
